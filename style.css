@@ -1,0 +1,50 @@
+#main-doc {
+	height: auto;
+	width: auto;
+	background-color: #FFF;
+	
+}
+#main-section {
+	background-color: #FFF;
+	margin-left: 210px;
+	height: auto;
+	width: auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+}
+#header {
+	margin: auto;
+	height: 10px;
+	width: auto;
+	font-size: 14px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #000;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+#nav-bar {
+	background-color: #CCC;
+	padding-top: 20px;
+	height: 100%;
+	width: 200px;
+	border-bottom-width: medium;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #000;
+	float: left;
+	display: block;
+	position: fixed;
+	overflow-y: auto;
+	overflow-x: hidden;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	z-index: 1;
+	border-right-width: thin;
+	border-right-color: #000;
+}
